@@ -5,8 +5,6 @@ const fs = require('fs')
 const process = require('process')
 const path = require('path')
 
-var dryRun = true // Prevent the script from actually making any discord API requests
-
 var configPath
 var config
 if (!fs.existsSync(__dirname + '/../state')) fs.mkdirSync(__dirname + '/../state')
@@ -31,6 +29,8 @@ const authorization = config.authorization ||
 var timedTextDir = config.timedTextDir ||
     (() => { throw new Error('No timedtext directory provided') })()
 timedTextDir = path.normalize(path.dirname(configPath) + '/' + timedTextDir)
+
+var dryRun = config.dryRun || false
 
 const progressJsonPath = __dirname + '/../state/progress.json'
 const parsersDir = __dirname + '/parsers'
