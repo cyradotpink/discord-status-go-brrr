@@ -1,0 +1,4 @@
+state
+state/**
+package-lock.json
+node_modules

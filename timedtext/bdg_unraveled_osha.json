@@ -1,0 +1,1645 @@
+{
+    "wireMagic": "pb3",
+    "pens": [{
+
+    }],
+    "wsWinStyles": [{
+
+    }],
+    "wpWinPositions": [{
+
+    }],
+    "events": [{
+        "tStartMs": 760,
+        "dDurationMs": 2600,
+        "segs": [{
+            "utf8": "Super Smash Bros. Ultimate."
+        }]
+    }, {
+        "tStartMs": 3440,
+        "dDurationMs": 6300,
+        "segs": [{
+            "utf8": "A game that takes heroic and villainous characters\nand forces them to form fraternal bonds in"
+        }]
+    }, {
+        "tStartMs": 9740,
+        "dDurationMs": 1570,
+        "segs": [{
+            "utf8": "the crucible of battle."
+        }]
+    }, {
+        "tStartMs": 11310,
+        "dDurationMs": 5450,
+        "segs": [{
+            "utf8": "Because for those who can superbly smash,\nthere is no better place to make a friend"
+        }]
+    }, {
+        "tStartMs": 16760,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "than on the battlefield."
+        }]
+    }, {
+        "tStartMs": 17760,
+        "dDurationMs": 1260,
+        "segs": [{
+            "utf8": "That’s the battlefield?"
+        }]
+    }, {
+        "tStartMs": 19020,
+        "dDurationMs": 1380,
+        "segs": [{
+            "utf8": "Seriously?"
+        }]
+    }, {
+        "tStartMs": 20400,
+        "dDurationMs": 1670,
+        "segs": [{
+            "utf8": "How did they get permits for that?"
+        }]
+    }, {
+        "tStartMs": 22070,
+        "dDurationMs": 1330,
+        "segs": [{
+            "utf8": "That’s irresponsible."
+        }]
+    }, {
+        "tStartMs": 23400,
+        "dDurationMs": 5490,
+        "segs": [{
+            "utf8": "Hi, I’m Brian David Gilbert, safety fan\nand bureaucratic wunderkind, please address"
+        }]
+    }, {
+        "tStartMs": 28890,
+        "dDurationMs": 4969,
+        "segs": [{
+            "utf8": "me as such, and I’ve spent the last week\nand a half poring over the regulations of"
+        }]
+    }, {
+        "tStartMs": 33859,
+        "dDurationMs": 4840,
+        "segs": [{
+            "utf8": "the United States Department of Labor’s\nOccupational Safety and Health Administration,"
+        }]
+    }, {
+        "tStartMs": 38699,
+        "dDurationMs": 1090,
+        "segs": [{
+            "utf8": "also known as OSHA."
+        }]
+    }, {
+        "tStartMs": 39789,
+        "dDurationMs": 3100,
+        "segs": [{
+            "utf8": "I’m here to hold Super Smash Bros. to account."
+        }]
+    }, {
+        "tStartMs": 42889,
+        "dDurationMs": 5440,
+        "segs": [{
+            "utf8": "Because when you take 70-plus beloved characters\nand force them to fight for our entertainment,"
+        }]
+    }, {
+        "tStartMs": 48329,
+        "dDurationMs": 3690,
+        "segs": [{
+            "utf8": "the least you can do is make sure the buildings\nare up to code."
+        }]
+    }, {
+        "tStartMs": 52020,
+        "dDurationMs": 6460,
+        "segs": [{
+            "utf8": "So let's go ahead and FIND EVERY OSHA VIOLATION\nIN EVERY STAGE IN SUPER SMASH BROS ULTIMATE."
+        }]
+    }, {
+        "tStartMs": 63320,
+        "dDurationMs": 5620,
+        "segs": [{
+            "utf8": "First, let’s explain the process, we have\nto start by choosing the correct regulations,"
+        }]
+    }, {
+        "tStartMs": 68940,
+        "dDurationMs": 4862,
+        "segs": [{
+            "utf8": "and unfortunately, there isn’t a OSHA guide\nto “bloodsport,” so we're just gonna go"
+        }]
+    }, {
+        "tStartMs": 73802,
+        "dDurationMs": 4158,
+        "segs": [{
+            "utf8": "with construction, form 1926. 'Cause that's close enough."
+        }]
+    }, {
+        "tStartMs": 77960,
+        "dDurationMs": 6210,
+        "segs": [{
+            "utf8": "The main thing to point out here is 1926.10\nsubsection A. I’ll read an excerpt for you"
+        }]
+    }, {
+        "tStartMs": 84170,
+        "dDurationMs": 4690,
+        "segs": [{
+            "utf8": "so you can understand the basic concept of this video,\nand also the hellscape I had to slog through"
+        }]
+    }, {
+        "tStartMs": 88860,
+        "dDurationMs": 5870,
+        "segs": [{
+            "utf8": "the past week: “no contractor or subcontractor\ncontracting for any part of the contract work”"
+        }]
+    }, {
+        "tStartMs": 94730,
+        "dDurationMs": 5070,
+        "segs": [{
+            "utf8": "— that’s a real line — “shall require\nany laborer or mechanic employed in the performance"
+        }]
+    }, {
+        "tStartMs": 99800,
+        "dDurationMs": 5400,
+        "segs": [{
+            "utf8": "of the contract to work in surroundings or\nunder working conditions which are unsanitary,"
+        }]
+    }, {
+        "tStartMs": 105200,
+        "dDurationMs": 2280,
+        "segs": [{
+            "utf8": "hazardous, or dangerous.”"
+        }]
+    }, {
+        "tStartMs": 107480,
+        "dDurationMs": 4190,
+        "segs": [{
+            "utf8": "Basically, we’re here to build a safer experience\nfor these characters, because when you walk"
+        }]
+    }, {
+        "tStartMs": 111670,
+        "dDurationMs": 4090,
+        "segs": [{
+            "utf8": "into an unknown space, I want the first question\non your mind to be:"
+        }]
+    }, {
+        "tStartMs": 118570,
+        "dDurationMs": 3150,
+        "segs": [{
+            "utf8": "There are roughly 350 regulations in form\n1926."
+        }]
+    }, {
+        "tStartMs": 121729,
+        "dDurationMs": 2441,
+        "segs": [{
+            "utf8": "How many pages is that?"
+        }]
+    }, {
+        "tStartMs": 124170,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "About 684."
+        }]
+    }, {
+        "tStartMs": 125170,
+        "dDurationMs": 2610,
+        "segs": [{
+            "utf8": "Don’t worry, this is... this is just a visual\naid."
+        }]
+    }, {
+        "tStartMs": 127780,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "They're all blank."
+        }]
+    }, {
+        "tStartMs": 128780,
+        "dDurationMs": 1500,
+        "segs": [{
+            "utf8": "I wouldn't waste paper like that."
+        }]
+    }, {
+        "tStartMs": 130280,
+        "dDurationMs": 3420,
+        "segs": [{
+            "utf8": "*thinks of the times he's wasted paper*"
+        }]
+    }, {
+        "tStartMs": 133700,
+        "dDurationMs": 2140,
+        "segs": [{
+            "utf8": "Most\nof these regulations are irrelevant, but I"
+        }]
+    }, {
+        "tStartMs": 135840,
+        "dDurationMs": 5330,
+        "segs": [{
+            "utf8": "still had to read all 684 pages in order to\nknow which ones to cut."
+        }]
+    }, {
+        "tStartMs": 141170,
+        "dDurationMs": 6039,
+        "segs": [{
+            "utf8": "Which reminds me, this video idea came from\ncommenter nshady16, so if you have an Unraveled"
+        }]
+    }, {
+        "tStartMs": 147209,
+        "dDurationMs": 2780,
+        "segs": [{
+            "utf8": "idea, why don't you go ahead and leave me\na comment."
+        }]
+    }, {
+        "tStartMs": 149989,
+        "dDurationMs": 6969,
+        "segs": [{
+            "utf8": "And thanks, nshady16, for making me read 684\npages of OSHA regulations,"
+        }]
+    }, {
+        "tStartMs": 156958,
+        "dDurationMs": 2061,
+        "segs": [{
+            "utf8": "you piece of garbage."
+        }]
+    }, {
+        "tStartMs": 159019,
+        "dDurationMs": 5390,
+        "segs": [{
+            "utf8": "So I cut out all of the regulations that were\njust definitions, unrelated to stages, nonmandatory,"
+        }]
+    }, {
+        "tStartMs": 164409,
+        "dDurationMs": 4591,
+        "segs": [{
+            "utf8": "redundant, or about personnel safety, because\nagain, we’re not talking about hard hats,"
+        }]
+    }, {
+        "tStartMs": 169000,
+        "dDurationMs": 2180,
+        "segs": [{
+            "utf8": "we're talking about the stages themselves."
+        }]
+    }, {
+        "tStartMs": 171180,
+        "dDurationMs": 4400,
+        "segs": [{
+            "utf8": "Unfortunately, this also meant I had to cut\nout the entirety of subsection R."
+        }]
+    }, {
+        "tStartMs": 175580,
+        "dDurationMs": 2169,
+        "segs": [{
+            "utf8": "Steel Erection."
+        }]
+    }, {
+        "tStartMs": 177749,
+        "dDurationMs": 2300,
+        "segs": [{
+            "utf8": "So there goes like 80% of the jokes in this\nvideo."
+        }]
+    }, {
+        "tStartMs": 180049,
+        "dDurationMs": 5631,
+        "segs": [{
+            "utf8": "Out of those 350 regulations, we’re left\nwith 46 that actually relate to Smash Bros. stages."
+        }]
+    }, {
+        "tStartMs": 185920,
+        "dDurationMs": 5560,
+        "segs": [{
+            "utf8": "And again, we're just using the 103 stages\nyou get when you boot up Super Smash Bros. Ultimate."
+        }]
+    }, {
+        "tStartMs": 191480,
+        "dDurationMs": 5160,
+        "segs": [{
+            "utf8": "Any any secret stages that pop up later, uh,\nthat's probably just an underground fighting"
+        }]
+    }, {
+        "tStartMs": 196640,
+        "dDurationMs": 1810,
+        "segs": [{
+            "utf8": "ring, which is a different form of illegality."
+        }]
+    }, {
+        "tStartMs": 198450,
+        "dDurationMs": 3329,
+        "segs": [{
+            "utf8": "I’m gonna explain all of these OSHA violations\nas we go along."
+        }]
+    }, {
+        "tStartMs": 201779,
+        "dDurationMs": 8780,
+        "segs": [{
+            "utf8": "But I just want you to keep in mind that there\nis a maximum penalty of $12,934 per OSHA violation."
+        }]
+    }, {
+        "tStartMs": 210559,
+        "dDurationMs": 1690,
+        "segs": [{
+            "utf8": "We’ll get into that later."
+        }]
+    }, {
+        "tStartMs": 212249,
+        "dDurationMs": 2311,
+        "segs": [{
+            "utf8": "Let's get these OSHA violations on the board."
+        }]
+    }, {
+        "tStartMs": 214560,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "BAM!"
+        }]
+    }, {
+        "tStartMs": 215580,
+        "dDurationMs": 2760,
+        "segs": [{
+            "utf8": "That's all the OSHA regulations we'll be discussing\ntoday."
+        }]
+    }, {
+        "tStartMs": 218349,
+        "dDurationMs": 4040,
+        "segs": [{
+            "utf8": "Let's start with the codes that pretty much\nevery stage violates."
+        }]
+    }, {
+        "tStartMs": 222389,
+        "dDurationMs": 1610,
+        "segs": [{
+            "utf8": "General safety and health provisions."
+        }]
+    }, {
+        "tStartMs": 223999,
+        "dDurationMs": 3420,
+        "segs": [{
+            "utf8": "I threw these three here because they're just\ndangerous in general and they don't have that"
+        }]
+    }, {
+        "tStartMs": 227419,
+        "dDurationMs": 2221,
+        "segs": [{
+            "utf8": "many other specific violations."
+        }]
+    }, {
+        "tStartMs": 229640,
+        "dDurationMs": 1499,
+        "segs": [{
+            "utf8": "Safety training and education."
+        }]
+    }, {
+        "tStartMs": 231139,
+        "dDurationMs": 2201,
+        "segs": [{
+            "utf8": "Seems like most of these people don't have\nsafety training."
+        }]
+    }, {
+        "tStartMs": 233340,
+        "dDurationMs": 4909,
+        "segs": [{
+            "utf8": "Especially in Moray Towers, where they literally\nshoot guns at you as you fly into the stage."
+        }]
+    }, {
+        "tStartMs": 238249,
+        "dDurationMs": 2341,
+        "segs": [{
+            "utf8": "Recording and reporting of injuries."
+        }]
+    }, {
+        "tStartMs": 240590,
+        "dDurationMs": 5599,
+        "segs": [{
+            "utf8": "Wii Fit Studio is a gym, and so I would expect\nit to have paperwork if one of the gym members"
+        }]
+    }, {
+        "tStartMs": 246189,
+        "dDurationMs": 1011,
+        "segs": [{
+            "utf8": "gets injured."
+        }]
+    }, {
+        "tStartMs": 247200,
+        "dDurationMs": 2670,
+        "segs": [{
+            "utf8": "Unfortunately, all of the gym members get\ninjured."
+        }]
+    }, {
+        "tStartMs": 249870,
+        "dDurationMs": 1220,
+        "segs": [{
+            "utf8": "Means of egress."
+        }]
+    }, {
+        "tStartMs": 251090,
+        "dDurationMs": 2920,
+        "segs": [{
+            "utf8": "In most places, you have to have exit signs."
+        }]
+    }, {
+        "tStartMs": 254010,
+        "dDurationMs": 4780,
+        "segs": [{
+            "utf8": "And also, you have to have exits that don't\ninvolve plummeting to your death."
+        }]
+    }, {
+        "tStartMs": 258790,
+        "dDurationMs": 1660,
+        "segs": [{
+            "utf8": "Employee emergency action plans."
+        }]
+    }, {
+        "tStartMs": 260450,
+        "dDurationMs": 2430,
+        "segs": [{
+            "utf8": "It's very important to have an emergency action\nplan."
+        }]
+    }, {
+        "tStartMs": 262880,
+        "dDurationMs": 5340,
+        "segs": [{
+            "utf8": "Especially if that emergency action plan is\nfor if a mountaintop breaks off and slides"
+        }]
+    }, {
+        "tStartMs": 268220,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "into the ocean."
+        }]
+    }, {
+        "tStartMs": 269220,
+        "dDurationMs": 1070,
+        "segs": [{
+            "utf8": "Look at this polar bear!"
+        }]
+    }, {
+        "tStartMs": 270290,
+        "dDurationMs": 2090,
+        "segs": [{
+            "utf8": "He has no fuckin' clue what's going on!"
+        }]
+    }, {
+        "tStartMs": 272380,
+        "dDurationMs": 2320,
+        "segs": [{
+            "utf8": "Accident prevention, signs, and tags."
+        }]
+    }, {
+        "tStartMs": 274700,
+        "dDurationMs": 4870,
+        "segs": [{
+            "utf8": "Just put one wet floor sign anywhere, and\nI'll let it slide, okay?"
+        }]
+    }, {
+        "tStartMs": 279570,
+        "dDurationMs": 1580,
+        "segs": [{
+            "utf8": "Duty to have fall protection."
+        }]
+    }, {
+        "tStartMs": 281150,
+        "dDurationMs": 2380,
+        "segs": [{
+            "utf8": "I mean uh... there's no fall protection."
+        }]
+    }, {
+        "tStartMs": 283530,
+        "dDurationMs": 2090,
+        "segs": [{
+            "utf8": "How hard is it to put a harness on someone?"
+        }]
+    }, {
+        "tStartMs": 285620,
+        "dDurationMs": 2470,
+        "segs": [{
+            "utf8": "General requirements for stairways and ladders."
+        }]
+    }, {
+        "tStartMs": 288090,
+        "dDurationMs": 5130,
+        "segs": [{
+            "utf8": "Anything above 19 inches of elevation needs\na staircase or a ladder."
+        }]
+    }, {
+        "tStartMs": 293220,
+        "dDurationMs": 1640,
+        "segs": [{
+            "utf8": "Not everyone can double jump."
+        }]
+    }, {
+        "tStartMs": 294860,
+        "dDurationMs": 940,
+        "segs": [{
+            "utf8": "Sanitation."
+        }]
+    }, {
+        "tStartMs": 295800,
+        "dDurationMs": 3680,
+        "segs": [{
+            "utf8": "Most of sanitation deals with potable versus\nnon-potable water."
+        }]
+    }, {
+        "tStartMs": 299480,
+        "dDurationMs": 4120,
+        "segs": [{
+            "utf8": "But a lot of it also deals with toilets, and\nI have yet to find a Smash Bros. stage that"
+        }]
+    }, {
+        "tStartMs": 303600,
+        "dDurationMs": 1560,
+        "segs": [{
+            "utf8": "includes a restroom."
+        }]
+    }, {
+        "tStartMs": 305160,
+        "dDurationMs": 2150,
+        "segs": [{
+            "utf8": "And I need to know where Donkey Kong pees."
+        }]
+    }, {
+        "tStartMs": 307310,
+        "dDurationMs": 2880,
+        "segs": [{
+            "utf8": "So those ones pretty much everyone gets wrong."
+        }]
+    }, {
+        "tStartMs": 310190,
+        "dDurationMs": 4230,
+        "segs": [{
+            "utf8": "Which means that we're at about 900 violations\nalready."
+        }]
+    }, {
+        "tStartMs": 315460,
+        "dDurationMs": 780,
+        "segs": [{
+            "utf8": "Yikes!"
+        }]
+    }, {
+        "tStartMs": 316240,
+        "dDurationMs": 6740,
+        "segs": [{
+            "utf8": "I feel a bit bad hitting all of these stages\nso hard, so I'll be a bit lenient for 1926.50."
+        }]
+    }, {
+        "tStartMs": 322980,
+        "dDurationMs": 1900,
+        "segs": [{
+            "utf8": "Medical services and first aid."
+        }]
+    }, {
+        "tStartMs": 324880,
+        "dDurationMs": 2680,
+        "segs": [{
+            "utf8": "You have to provide first aid if someone has\nbeen hurt."
+        }]
+    }, {
+        "tStartMs": 327560,
+        "dDurationMs": 3980,
+        "segs": [{
+            "utf8": "And I'll just let the max tomato fulfill that\nrequirement."
+        }]
+    }, {
+        "tStartMs": 331540,
+        "dDurationMs": 4010,
+        "segs": [{
+            "utf8": "451 states that you can't be using unstable\nobjects as scaff."
+        }]
+    }, {
+        "tStartMs": 335550,
+        "dDurationMs": 5590,
+        "segs": [{
+            "utf8": "I'm gonna call all of these scaff 'cause there's\nno OSHA guideline for levitating floors."
+        }]
+    }, {
+        "tStartMs": 341140,
+        "dDurationMs": 3360,
+        "segs": [{
+            "utf8": "Jumping on an awning causes it to break in\nOnett."
+        }]
+    }, {
+        "tStartMs": 344500,
+        "dDurationMs": 1670,
+        "segs": [{
+            "utf8": "That's totally irresponsible."
+        }]
+    }, {
+        "tStartMs": 346170,
+        "dDurationMs": 2920,
+        "segs": [{
+            "utf8": "452 states that you need to have cross bracing."
+        }]
+    }, {
+        "tStartMs": 349090,
+        "dDurationMs": 3230,
+        "segs": [{
+            "utf8": "Kongo Falls has so many things that aren't\ncross braced."
+        }]
+    }, {
+        "tStartMs": 352320,
+        "dDurationMs": 2120,
+        "segs": [{
+            "utf8": "453 is all about aerial lifts."
+        }]
+    }, {
+        "tStartMs": 354440,
+        "dDurationMs": 3300,
+        "segs": [{
+            "utf8": "You need to stand firmly on the ground while\nit is moving."
+        }]
+    }, {
+        "tStartMs": 357740,
+        "dDurationMs": 1020,
+        "segs": [{
+            "utf8": "Stop jumping!"
+        }]
+    }, {
+        "tStartMs": 358760,
+        "dDurationMs": 1030,
+        "segs": [{
+            "utf8": "Housekeeping."
+        }]
+    }, {
+        "tStartMs": 359790,
+        "dDurationMs": 1490,
+        "segs": [{
+            "utf8": "You gotta clean out the debris."
+        }]
+    }, {
+        "tStartMs": 361280,
+        "dDurationMs": 4910,
+        "segs": [{
+            "utf8": "I don't care that you've got a big dog running\naround behind you... put the... put the blocks"
+        }]
+    }, {
+        "tStartMs": 366190,
+        "dDurationMs": 1300,
+        "segs": [{
+            "utf8": "away, that's debris!"
+        }]
+    }, {
+        "tStartMs": 367490,
+        "dDurationMs": 1210,
+        "segs": [{
+            "utf8": "Put your toys away, honey!"
+        }]
+    }, {
+        "tStartMs": 368700,
+        "dDurationMs": 1620,
+        "segs": [{
+            "utf8": "Occupational noise exposure."
+        }]
+    }, {
+        "tStartMs": 370320,
+        "dDurationMs": 4720,
+        "segs": [{
+            "utf8": "I'm ignoring the fact that they're fighting\non top of a jet and instead thinking about"
+        }]
+    }, {
+        "tStartMs": 375040,
+        "dDurationMs": 2200,
+        "segs": [{
+            "utf8": "how loud those jets are."
+        }]
+    }, {
+        "tStartMs": 377240,
+        "dDurationMs": 1470,
+        "segs": [{
+            "utf8": "Pop some earplugs in!"
+        }]
+    }, {
+        "tStartMs": 378710,
+        "dDurationMs": 2620,
+        "segs": [{
+            "utf8": "Gases, vapors, fumes, dusts, and mists."
+        }]
+    }, {
+        "tStartMs": 381330,
+        "dDurationMs": 3390,
+        "segs": [{
+            "utf8": "All of these stages have clouds that you can\nstand on."
+        }]
+    }, {
+        "tStartMs": 384720,
+        "dDurationMs": 1730,
+        "segs": [{
+            "utf8": "Which means they're incredibly dense."
+        }]
+    }, {
+        "tStartMs": 386450,
+        "dDurationMs": 3470,
+        "segs": [{
+            "utf8": "I don't care what it's made of, you shouldn't\nbe breathing that in."
+        }]
+    }, {
+        "tStartMs": 389920,
+        "dDurationMs": 860,
+        "segs": [{
+            "utf8": "Illumination."
+        }]
+    }, {
+        "tStartMs": 390780,
+        "dDurationMs": 1580,
+        "segs": [{
+            "utf8": "Those torches don't do anything."
+        }]
+    }, {
+        "tStartMs": 392370,
+        "dDurationMs": 2700,
+        "segs": [{
+            "utf8": "I'm gonna trip and stub my toe."
+        }]
+    }, {
+        "tStartMs": 395070,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "Ventilation."
+        }]
+    }, {
+        "tStartMs": 396070,
+        "dDurationMs": 4810,
+        "segs": [{
+            "utf8": "A lot of these stages need more airflow, better\nventilation, but in Pictochat 2, there is"
+        }]
+    }, {
+        "tStartMs": 400880,
+        "dDurationMs": 4670,
+        "segs": [{
+            "utf8": "too much ventilation in the form of this man\nwho blows air."
+        }]
+    }, {
+        "tStartMs": 405550,
+        "dDurationMs": 1340,
+        "segs": [{
+            "utf8": "Who hired this man?"
+        }]
+    }, {
+        "tStartMs": 406890,
+        "dDurationMs": 1860,
+        "segs": [{
+            "utf8": "I don't want him on my job site."
+        }]
+    }, {
+        "tStartMs": 408750,
+        "dDurationMs": 3090,
+        "segs": [{
+            "utf8": "Hazardous waste operations and emergency response."
+        }]
+    }, {
+        "tStartMs": 411840,
+        "dDurationMs": 4570,
+        "segs": [{
+            "utf8": "In Flat Zone X, someone spills oil and then\njust leaves it there."
+        }]
+    }, {
+        "tStartMs": 416410,
+        "dDurationMs": 7170,
+        "segs": [{
+            "utf8": "1926.150, 151, 152, and 154 are all about\nfire protection."
+        }]
+    }, {
+        "tStartMs": 423580,
+        "dDurationMs": 3110,
+        "segs": [{
+            "utf8": "Most of these regulations are pretty self\nexplanatory."
+        }]
+    }, {
+        "tStartMs": 426690,
+        "dDurationMs": 1290,
+        "segs": [{
+            "utf8": "You need to have a fire extinguisher."
+        }]
+    }, {
+        "tStartMs": 427980,
+        "dDurationMs": 1990,
+        "segs": [{
+            "utf8": "It needs to be readily available."
+        }]
+    }, {
+        "tStartMs": 429970,
+        "dDurationMs": 2640,
+        "segs": [{
+            "utf8": "You can't have ignition hazards hanging around."
+        }]
+    }, {
+        "tStartMs": 432610,
+        "dDurationMs": 4810,
+        "segs": [{
+            "utf8": "You can't store more than 25 gallons of a\nflammable liquid in one place."
+        }]
+    }, {
+        "tStartMs": 437420,
+        "dDurationMs": 2770,
+        "segs": [{
+            "utf8": "By the way, I'm including magma as a flammable\nliquid."
+        }]
+    }, {
+        "tStartMs": 440190,
+        "dDurationMs": 4290,
+        "segs": [{
+            "utf8": "I know they mean petroleum substances, but\nI think that's just a lack of imagination"
+        }]
+    }, {
+        "tStartMs": 444480,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "on OSHA's part."
+        }]
+    }, {
+        "tStartMs": 445480,
+        "dDurationMs": 6140,
+        "segs": [{
+            "utf8": "But 154 is all about temporary heating devices\nand how they shouldn't be kept in enclosed spaces."
+        }]
+    }, {
+        "tStartMs": 451630,
+        "dDurationMs": 2890,
+        "segs": [{
+            "utf8": "Kind of like the charmander at the top of\nSaffron City."
+        }]
+    }, {
+        "tStartMs": 454530,
+        "dDurationMs": 2250,
+        "segs": [{
+            "utf8": "The general requirements of electrical equipment."
+        }]
+    }, {
+        "tStartMs": 456780,
+        "dDurationMs": 5260,
+        "segs": [{
+            "utf8": "They should be kept free from hazards that\ncould cause death or harm to employees."
+        }]
+    }, {
+        "tStartMs": 462040,
+        "dDurationMs": 5320,
+        "segs": [{
+            "utf8": "The large airships flying around you in these\nstages are not only electrical equipment,"
+        }]
+    }, {
+        "tStartMs": 467360,
+        "dDurationMs": 3260,
+        "segs": [{
+            "utf8": "but they are designed to harm and kill you."
+        }]
+    }, {
+        "tStartMs": 470620,
+        "dDurationMs": 1310,
+        "segs": [{
+            "utf8": "Violation."
+        }]
+    }, {
+        "tStartMs": 471930,
+        "dDurationMs": 2110,
+        "segs": [{
+            "utf8": "Specific purpose equipment and installations."
+        }]
+    }, {
+        "tStartMs": 474040,
+        "dDurationMs": 2130,
+        "segs": [{
+            "utf8": "This is all about elevators and escalators."
+        }]
+    }, {
+        "tStartMs": 476170,
+        "dDurationMs": 2469,
+        "segs": [{
+            "utf8": "WarioWare Inc. is one big elevator."
+        }]
+    }, {
+        "tStartMs": 478640,
+        "dDurationMs": 1660,
+        "segs": [{
+            "utf8": "You don't need me to tell you it's broken."
+        }]
+    }, {
+        "tStartMs": 480300,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "Helicopters."
+        }]
+    }, {
+        "tStartMs": 481300,
+        "dDurationMs": 1720,
+        "segs": [{
+            "utf8": "Is a Shy Guy a helicopter?"
+        }]
+    }, {
+        "tStartMs": 483020,
+        "dDurationMs": 1050,
+        "segs": [{
+            "utf8": "I think so."
+        }]
+    }, {
+        "tStartMs": 484070,
+        "dDurationMs": 3100,
+        "segs": [{
+            "utf8": "You're not supposed to be working underneath\nhovering craft."
+        }]
+    }, {
+        "tStartMs": 487170,
+        "dDurationMs": 1469,
+        "segs": [{
+            "utf8": "Even if they're bringing you fruit."
+        }]
+    }, {
+        "tStartMs": 488639,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "Conveyors."
+        }]
+    }, {
+        "tStartMs": 489639,
+        "dDurationMs": 4561,
+        "segs": [{
+            "utf8": "That includes the stages that move back and\nforth and also all of the scrolling stages,"
+        }]
+    }, {
+        "tStartMs": 494200,
+        "dDurationMs": 4680,
+        "segs": [{
+            "utf8": "which are the fastest way to die in Super\nSmash Bros. Tools and material shall be secured"
+        }]
+    }, {
+        "tStartMs": 498880,
+        "dDurationMs": 1490,
+        "segs": [{
+            "utf8": "to prevent movement."
+        }]
+    }, {
+        "tStartMs": 500370,
+        "dDurationMs": 2660,
+        "segs": [{
+            "utf8": "Don't move equipment unless it's safe."
+        }]
+    }, {
+        "tStartMs": 503030,
+        "dDurationMs": 2490,
+        "segs": [{
+            "utf8": "They're on a live racetrack."
+        }]
+    }, {
+        "tStartMs": 505520,
+        "dDurationMs": 1730,
+        "segs": [{
+            "utf8": "All of the things are moving."
+        }]
+    }, {
+        "tStartMs": 507250,
+        "dDurationMs": 2070,
+        "segs": [{
+            "utf8": "Marine operations and equipment."
+        }]
+    }, {
+        "tStartMs": 509320,
+        "dDurationMs": 3910,
+        "segs": [{
+            "utf8": "You have to have a lifering on a barge, and\nyou have to provide a walkway between wharfs"
+        }]
+    }, {
+        "tStartMs": 513230,
+        "dDurationMs": 1010,
+        "segs": [{
+            "utf8": "and boats."
+        }]
+    }, {
+        "tStartMs": 514240,
+        "dDurationMs": 4340,
+        "segs": [{
+            "utf8": "Paper Mario dissolves into a boat, but that\ndoesn't count as a walkway."
+        }]
+    }, {
+        "tStartMs": 518580,
+        "dDurationMs": 3800,
+        "segs": [{
+            "utf8": "And there is not a single lifering at the\nDonkey Kong residence."
+        }]
+    }, {
+        "tStartMs": 522380,
+        "dDurationMs": 2860,
+        "segs": [{
+            "utf8": "I don't care how good you are at surfing,\nFUNKY KONG."
+        }]
+    }, {
+        "tStartMs": 525240,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "Underground construction."
+        }]
+    }, {
+        "tStartMs": 526260,
+        "dDurationMs": 4380,
+        "segs": [{
+            "utf8": "If you're working underground, you're required\nto have a five-person rescue team on call."
+        }]
+    }, {
+        "tStartMs": 530650,
+        "dDurationMs": 1420,
+        "segs": [{
+            "utf8": "And although Super Smash Bros."
+        }]
+    }, {
+        "tStartMs": 532070,
+        "dDurationMs": 2850,
+        "segs": [{
+            "utf8": "Ultimate does allow up to eight players."
+        }]
+    }, {
+        "tStartMs": 534920,
+        "dDurationMs": 2320,
+        "segs": [{
+            "utf8": "None of them will save you."
+        }]
+    }, {
+        "tStartMs": 537240,
+        "dDurationMs": 3090,
+        "segs": [{
+            "utf8": "Working on or near exposed energized parts."
+        }]
+    }, {
+        "tStartMs": 540330,
+        "dDurationMs": 3540,
+        "segs": [{
+            "utf8": "Does a pokemon count as an energized circuit?"
+        }]
+    }, {
+        "tStartMs": 543870,
+        "dDurationMs": 1310,
+        "segs": [{
+            "utf8": "According to OSHA, yes."
+        }]
+    }, {
+        "tStartMs": 545180,
+        "dDurationMs": 3720,
+        "segs": [{
+            "utf8": "1926.1052 is all about stairways."
+        }]
+    }, {
+        "tStartMs": 549120,
+        "dDurationMs": 4820,
+        "segs": [{
+            "utf8": "If you have a stairway that rises more than\n40 inches, you need to have a handrail."
+        }]
+    }, {
+        "tStartMs": 553940,
+        "dDurationMs": 5760,
+        "segs": [{
+            "utf8": "I imagine that Mario is about 40 inches tall,\nand this is at least four or five times his height."
+        }]
+    }, {
+        "tStartMs": 559700,
+        "dDurationMs": 780,
+        "segs": [{
+            "utf8": "Violation."
+        }]
+    }, {
+        "tStartMs": 560480,
+        "dDurationMs": 860,
+        "segs": [{
+            "utf8": "Violation."
+        }]
+    }, {
+        "tStartMs": 561340,
+        "dDurationMs": 900,
+        "segs": [{
+            "utf8": "VIOLATION."
+        }]
+    }, {
+        "tStartMs": 562240,
+        "dDurationMs": 940,
+        "segs": [{
+            "utf8": "VIOLATION!"
+        }]
+    }, {
+        "tStartMs": 563180,
+        "dDurationMs": 1300,
+        "segs": [{
+            "utf8": "Confined spaces."
+        }]
+    }, {
+        "tStartMs": 564480,
+        "dDurationMs": 3780,
+        "segs": [{
+            "utf8": "These are places where you are building where\nit's hard to get in and out of."
+        }]
+    }, {
+        "tStartMs": 568270,
+        "dDurationMs": 3160,
+        "segs": [{
+            "utf8": "You need to specify the acceptable entry conditions."
+        }]
+    }, {
+        "tStartMs": 571430,
+        "dDurationMs": 5270,
+        "segs": [{
+            "utf8": "There are no acceptable entry conditions into\na space with a pit full of acid."
+        }]
+    }, {
+        "tStartMs": 576700,
+        "dDurationMs": 2280,
+        "segs": [{
+            "utf8": "Disposal of waste materials."
+        }]
+    }, {
+        "tStartMs": 578980,
+        "dDurationMs": 5000,
+        "segs": [{
+            "utf8": "If you are dropping waste materials more than\n25 feet, you need to be putting it in a chute."
+        }]
+    }, {
+        "tStartMs": 583980,
+        "dDurationMs": 3980,
+        "segs": [{
+            "utf8": "Clock Tower: it is all debris that is falling\ninfinitely."
+        }]
+    }, {
+        "tStartMs": 587960,
+        "dDurationMs": 1980,
+        "segs": [{
+            "utf8": "And it SHOULD be in a chute."
+        }]
+    }, {
+        "tStartMs": 589940,
+        "dDurationMs": 2880,
+        "segs": [{
+            "utf8": "850 is about preparing the demolition building."
+        }]
+    }, {
+        "tStartMs": 592820,
+        "dDurationMs": 2430,
+        "segs": [{
+            "utf8": "You're supposed to remove any glass that could\nbreak."
+        }]
+    }, {
+        "tStartMs": 595250,
+        "dDurationMs": 4000,
+        "segs": [{
+            "utf8": "And in Dracula's Castle, Death flies through\nthe window and breaks the glass."
+        }]
+    }, {
+        "tStartMs": 599250,
+        "dDurationMs": 4310,
+        "segs": [{
+            "utf8": "I couldn't give a shit about Death, you should've\nremoved that stained glass first."
+        }]
+    }, {
+        "tStartMs": 603560,
+        "dDurationMs": 6900,
+        "segs": [{
+            "utf8": "853, you can't have a aggregate of more than\n25% of a floor destroyed, and in Find Mii,"
+        }]
+    }, {
+        "tStartMs": 610460,
+        "dDurationMs": 1620,
+        "segs": [{
+            "utf8": "he destroys half of the stage."
+        }]
+    }, {
+        "tStartMs": 612080,
+        "dDurationMs": 1670,
+        "segs": [{
+            "utf8": "The manual removal of floors."
+        }]
+    }, {
+        "tStartMs": 613750,
+        "dDurationMs": 3690,
+        "segs": [{
+            "utf8": "You can destroy a lot of things in Shadow\nMoses Island, but you shouldn't be standing"
+        }]
+    }, {
+        "tStartMs": 617440,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "under them."
+        }]
+    }, {
+        "tStartMs": 618440,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "Tower cranes."
+        }]
+    }, {
+        "tStartMs": 619440,
+        "dDurationMs": 2510,
+        "segs": [{
+            "utf8": "There is only one stage that violates this."
+        }]
+    }, {
+        "tStartMs": 621950,
+        "dDurationMs": 3890,
+        "segs": [{
+            "utf8": "It's literally the only stage with a tower\ncrane, and ya FUCKED IT UP!"
+        }]
+    }, {
+        "tStartMs": 625840,
+        "dDurationMs": 4000,
+        "segs": [{
+            "utf8": "Explosives should be stored in a magazine\nwhen they're not in use."
+        }]
+    }, {
+        "tStartMs": 629840,
+        "dDurationMs": 4990,
+        "segs": [{
+            "utf8": "And in Wrecking Crew, they're just available\nfor you to punch until they explode."
+        }]
+    }, {
+        "tStartMs": 634830,
+        "dDurationMs": 1010,
+        "segs": [{
+            "utf8": "Firing the blast."
+        }]
+    }, {
+        "tStartMs": 635840,
+        "dDurationMs": 2180,
+        "segs": [{
+            "utf8": "You shouldn't be in the proximity of the blast."
+        }]
+    }, {
+        "tStartMs": 638020,
+        "dDurationMs": 5400,
+        "segs": [{
+            "utf8": "Nor should you be in the barrel that is causing\nthe blast and shooting you off into space."
+        }]
+    }, {
+        "tStartMs": 643420,
+        "dDurationMs": 4450,
+        "segs": [{
+            "utf8": "1926.53 and 54 are about different types of\nradiation."
+        }]
+    }, {
+        "tStartMs": 647870,
+        "dDurationMs": 4600,
+        "segs": [{
+            "utf8": "Ionizing, which is nuclear, and non-ionizing,\nwhich is like lasers."
+        }]
+    }, {
+        "tStartMs": 652470,
+        "dDurationMs": 3290,
+        "segs": [{
+            "utf8": "Final Destination is just flying around through\nrandom parts of space."
+        }]
+    }, {
+        "tStartMs": 655760,
+        "dDurationMs": 1170,
+        "segs": [{
+            "utf8": "There is no protection."
+        }]
+    }, {
+        "tStartMs": 656930,
+        "dDurationMs": 5140,
+        "segs": [{
+            "utf8": "You should be less worried about getting punched\ninto oblivion and more worried about the cancers."
+        }]
+    }, {
+        "tStartMs": 662070,
+        "dDurationMs": 3950,
+        "segs": [{
+            "utf8": "In Gamer, your mom fires lasers at you when\nshe sees you gaming."
+        }]
+    }, {
+        "tStartMs": 666020,
+        "dDurationMs": 5030,
+        "segs": [{
+            "utf8": "I'm not here to discuss her qualifications,\nbut you are not allowed to fire those lasers"
+        }]
+    }, {
+        "tStartMs": 671050,
+        "dDurationMs": 1250,
+        "segs": [{
+            "utf8": "at employees."
+        }]
+    }, {
+        "tStartMs": 673480,
+        "dDurationMs": 2060,
+        "segs": [{
+            "utf8": "JUST LET ME GAME, MOM!"
+        }]
+    }, {
+        "tStartMs": 675540,
+        "dDurationMs": 980,
+        "segs": [{
+            "utf8": "Ladders."
+        }]
+    }, {
+        "tStartMs": 676520,
+        "dDurationMs": 1860,
+        "segs": [{
+            "utf8": "Suzaku Castle?"
+        }]
+    }, {
+        "tStartMs": 678390,
+        "dDurationMs": 2960,
+        "segs": [{
+            "utf8": "You thought you could get away with that shitty-ass\nladder?"
+        }]
+    }, {
+        "tStartMs": 681350,
+        "dDurationMs": 2090,
+        "segs": [{
+            "utf8": "Those ladder rungs need to be uniform."
+        }]
+    }, {
+        "tStartMs": 683440,
+        "dDurationMs": 2170,
+        "segs": [{
+            "utf8": "They need to be evenly spaced."
+        }]
+    }, {
+        "tStartMs": 685610,
+        "dDurationMs": 1820,
+        "segs": [{
+            "utf8": "They need to not be broken."
+        }]
+    }, {
+        "tStartMs": 687430,
+        "dDurationMs": 4730,
+        "segs": [{
+            "utf8": "I know that ladder is there for aesthetic\npurposes, but THAT IS A VIOLATION, SUZAKU"
+        }]
+    }, {
+        "tStartMs": 692160,
+        "dDurationMs": 1000,
+        "segs": [{
+            "utf8": "CASTLE."
+        }]
+    }, {
+        "tStartMs": 693160,
+        "dDurationMs": 1920,
+        "segs": [{
+            "utf8": "YOU CANNOT HIDE YOUR LADDERS FROM ME."
+        }]
+    }, {
+        "tStartMs": 695080,
+        "dDurationMs": 2130,
+        "segs": [{
+            "utf8": "That leaves us with one stage."
+        }]
+    }, {
+        "tStartMs": 697210,
+        "dDurationMs": 2610,
+        "segs": [{
+            "utf8": "The one that has violated the most regulations."
+        }]
+    }, {
+        "tStartMs": 699820,
+        "dDurationMs": 1610,
+        "segs": [{
+            "utf8": "But I want to point out Boxing Ring."
+        }]
+    }, {
+        "tStartMs": 701430,
+        "dDurationMs": 2820,
+        "segs": [{
+            "utf8": "The only stage that is OSHA compliant."
+        }]
+    }, {
+        "tStartMs": 704250,
+        "dDurationMs": 4870,
+        "segs": [{
+            "utf8": "It's almost as if it was built to allow people\nto fight in it safely."
+        }]
+    }, {
+        "tStartMs": 709120,
+        "dDurationMs": 5610,
+        "segs": [{
+            "utf8": "Sakurai, I know you worked so hard on this\ngame, and I appreciate it so much, but you"
+        }]
+    }, {
+        "tStartMs": 714730,
+        "dDurationMs": 3160,
+        "segs": [{
+            "utf8": "could have stopped at just one stage."
+        }]
+    }, {
+        "tStartMs": 717890,
+        "dDurationMs": 3760,
+        "segs": [{
+            "utf8": "You SHOULD have STOPPED at JUST ONE STAGE."
+        }]
+    }, {
+        "tStartMs": 721650,
+        "dDurationMs": 6750,
+        "segs": [{
+            "utf8": "Finally, weighing in at 23 OSHA violations,\nit's 75m."
+        }]
+    }, {
+        "tStartMs": 728400,
+        "dDurationMs": 5760,
+        "segs": [{
+            "utf8": "I'm not 100% sure if this had so many violations\njust because it is a construction site, so"
+        }]
+    }, {
+        "tStartMs": 734160,
+        "dDurationMs": 3220,
+        "segs": [{
+            "utf8": "it was easier for me to find all of the flaws\nwith it."
+        }]
+    }, {
+        "tStartMs": 737380,
+        "dDurationMs": 5340,
+        "segs": [{
+            "utf8": "Obviously, Brinstar is probably more dangerous,\nbut I don't know how to categorize Mother Brain."
+        }]
+    }, {
+        "tStartMs": 742720,
+        "dDurationMs": 5600,
+        "segs": [{
+            "utf8": "The thing that pushed it over the edge was\nmaterial hoists, personnel hoists, and elevators."
+        }]
+    }, {
+        "tStartMs": 748330,
+        "dDurationMs": 3220,
+        "segs": [{
+            "utf8": "They need to be enclosed at all times."
+        }]
+    }, {
+        "tStartMs": 751550,
+        "dDurationMs": 3570,
+        "segs": [{
+            "utf8": "People can just jump on and off of these material\nhoists over there."
+        }]
+    }, {
+        "tStartMs": 755120,
+        "dDurationMs": 1120,
+        "segs": [{
+            "utf8": "That's so irresponsible."
+        }]
+    }, {
+        "tStartMs": 756240,
+        "dDurationMs": 1690,
+        "segs": [{
+            "utf8": "There's fire."
+        }]
+    }, {
+        "tStartMs": 757930,
+        "dDurationMs": 3350,
+        "segs": [{
+            "utf8": "There are jacks that get thrown across the\nstage."
+        }]
+    }, {
+        "tStartMs": 761280,
+        "dDurationMs": 1540,
+        "segs": [{
+            "utf8": "There is a large ape."
+        }]
+    }, {
+        "tStartMs": 765540,
+        "dDurationMs": 4800,
+        "segs": [{
+            "utf8": "Again, I could not categorize that, but I\nknow he shouldn't of been there! 75m is the"
+        }]
+    }, {
+        "tStartMs": 770340,
+        "dDurationMs": 3870,
+        "segs": [{
+            "utf8": "most OSHA violating stage in Smash Bros."
+        }]
+    }, {
+        "tStartMs": 774210,
+        "dDurationMs": 3170,
+        "segs": [{
+            "utf8": "And if you have to get rid of one of them,\nthat's the one you should get rid of first,"
+        }]
+    }, {
+        "tStartMs": 777380,
+        "dDurationMs": 2000,
+        "segs": [{
+            "utf8": "and then you should get rid of the rest of\nthem, too."
+        }]
+    }, {
+        "tStartMs": 779380,
+        "dDurationMs": 2649,
+        "segs": [{
+            "utf8": "Because, again, OSHA does not stop after one\nstage."
+        }]
+    }, {
+        "tStartMs": 782029,
+        "dDurationMs": 3921,
+        "segs": [{
+            "utf8": "Let's remember back to the beginning of this\nvideo when I talked about violation penalties."
+        }]
+    }, {
+        "tStartMs": 785950,
+        "dDurationMs": 8550,
+        "segs": [{
+            "utf8": "I mentioned that every serious violation of\nOSHA is $12,934 in fines."
+        }]
+    }, {
+        "tStartMs": 794500,
+        "dDurationMs": 10240,
+        "segs": [{
+            "utf8": "I forgot to mention that every repeated or\nwillful violation is $129,336 per violation."
+        }]
+    }, {
+        "tStartMs": 804740,
+        "dDurationMs": 5310,
+        "segs": [{
+            "utf8": "I am going to pretend that I found all of\nthese violations on the same day, and that"
+        }]
+    }, {
+        "tStartMs": 810050,
+        "dDurationMs": 3700,
+        "segs": [{
+            "utf8": "they didn't have a chance to fix them all,\nso therefore they are not repeated."
+        }]
+    }, {
+        "tStartMs": 813750,
+        "dDurationMs": 4290,
+        "segs": [{
+            "utf8": "But that's still 1,317 violations."
+        }]
+    }, {
+        "tStartMs": 818040,
+        "dDurationMs": 5330,
+        "segs": [{
+            "utf8": "Or $17,034,078 in fines."
+        }]
+    }, {
+        "tStartMs": 823370,
+        "dDurationMs": 4190,
+        "segs": [{
+            "utf8": "Which is why I am sending you this video,\nMasahiro Sakurai."
+        }]
+    }, {
+        "tStartMs": 827560,
+        "dDurationMs": 3610,
+        "segs": [{
+            "utf8": "Surely you can't afford 17 million dollars\nin fines."
+        }]
+    }, {
+        "tStartMs": 831170,
+        "dDurationMs": 2700,
+        "segs": [{
+            "utf8": "I'm willing to let bygones be bygones."
+        }]
+    }, {
+        "tStartMs": 833870,
+        "dDurationMs": 3480,
+        "segs": [{
+            "utf8": "OSHA doesn't need to hear about all of this\nevidence I've compiled."
+        }]
+    }, {
+        "tStartMs": 837350,
+        "dDurationMs": 4489,
+        "segs": [{
+            "utf8": "All you must do is send me 50 US dollars."
+        }]
+    }, {
+        "tStartMs": 841839,
+        "dDurationMs": 4261,
+        "segs": [{
+            "utf8": "I'm in a real tough situation right now and\nI just need to get through the month."
+        }]
+    }, {
+        "tStartMs": 846100,
+        "dDurationMs": 1530,
+        "segs": [{
+            "utf8": "Please."
+        }]
+    }, {
+        "tStartMs": 847630,
+        "dDurationMs": 1920,
+        "segs": [{
+            "utf8": "Also you could send me Kirby's phone number."
+        }]
+    }, {
+        "tStartMs": 849550,
+        "dDurationMs": 1280,
+        "segs": [{
+            "utf8": "I know he is real."
+        }]
+    }, {
+        "tStartMs": 850830,
+        "dDurationMs": 1460,
+        "segs": [{
+            "utf8": "Where are you hiding him?"
+        }]
+    }, {
+        "tStartMs": 852290,
+        "dDurationMs": 4380,
+        "segs": [{
+            "utf8": "And I have yet to see a Super Smash Bros.\nstage that includes a toilet."
+        }]
+    }, {
+        "tStartMs": 856670,
+        "dDurationMs": 2760,
+        "segs": [{
+            "utf8": "And I need to see where Donkey Kong pees."
+        }]
+    }, {
+        "tStartMs": 859430,
+        "dDurationMs": 5349,
+        "segs": [{
+            "utf8": "*Pat \u0026 Brian laughing* And I need to know\nwhere Donkey Kong Pees."
+        }]
+    }, {
+        "tStartMs": 864779,
+        "dDurationMs": 2261,
+        "segs": [{
+            "utf8": "Oh god I was so close!"
+        }]
+    }, {
+        "tStartMs": 867040,
+        "dDurationMs": 1739,
+        "segs": [{
+            "utf8": "And I need to know where Donkey Kong peeHHSHSS."
+        }]
+    }, {
+        "tStartMs": 868779,
+        "dDurationMs": 4911,
+        "segs": [{
+            "utf8": "*through laughter* sorry this is... *breathe\nin* AHHHH"
+        }]
+    }]
+}
