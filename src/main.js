@@ -28,7 +28,8 @@ const authorization = config.authorization ||
 // Path to the closed captions JSON
 var timedTextDir = config.timedTextDir ||
     (() => { throw new Error('No timedtext directory provided') })()
-timedTextDir = path.normalize(path.dirname(configPath) + '/' + timedTextDir)
+if (!path.isAbsolute(timedTextDir))
+    timedTextDir = path.normalize(path.dirname(configPath) + '/' + timedTextDir)
 
 var dryRun = config.dryRun || false
 
