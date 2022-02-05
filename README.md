@@ -6,7 +6,7 @@ It's fun, it's easy, it violates Discord's terms of service, and it's free.
 
 Install with npm:
 ```
-npm install --global https://github.com/SimonAlexPaul/discord-status-go-brrr
+npm install --global https://github.com/cyradotpink/discord-status-go-brrr
 ```
 Create a config file somewhere that looks like this:
 ```json
